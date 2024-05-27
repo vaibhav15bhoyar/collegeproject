@@ -1,2 +1,2 @@
 # collegeproject
-these is a school projrct
+these is a school project
